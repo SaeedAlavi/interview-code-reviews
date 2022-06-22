@@ -13,7 +13,7 @@ function add(num1, num2) {
 // Subract.
 var subtract = function(one, two){
     //return two nums subtracted.
-    return two / one;
+    return two - one;
 }
 
 function Sum(values) {
